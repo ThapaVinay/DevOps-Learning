@@ -1,0 +1,23 @@
+									       DevOps Tutorial
+
+DAY 1 : Introduction
+-> Previosly we used to have waterfall model for software development.
+
+	* Agile:
+-> But then comes agile which breaks the project into different iterations in which developent and testing is done and a product is released at each iteration.
+
+-> The development phase was continuous but not the deployment phase, it was like there was a wall between development and operations team.
+
+
+	* DevOps
+-> DevOps is developent strategy that bridges the gap between the development and operation team.
+-> DevOps stages :
+	:) Version control - maintains different versions of the code
+	:) Continuous integration/build - compile, validate, code review, unit and intergration testing 
+	:) Continuous delivery - continuous testing
+	:) Continuous deployment - containerization
+	:) Continuous monitoring
+	
+	*
+								
+
