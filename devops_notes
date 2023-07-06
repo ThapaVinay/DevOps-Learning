@@ -13,11 +13,41 @@ DAY 1 : Introduction
 -> DevOps is developent strategy that bridges the gap between the development and operation team.
 -> DevOps stages :
 	:) Version control - maintains different versions of the code
-	:) Continuous integration/build - compile, validate, code review, unit and intergration testing 
+	:) Continuous integration/build - compile, validate, code review, unit and intergration testing, packaing your app into executable file (WAR, JAR). 
 	:) Continuous delivery - continuous testing
 	:) Continuous deployment - containerization
 	:) Continuous monitoring
-	
-	*
+
+
+___________________________________________
+
+	* Source code management
+-> Management of changes in documents, programs, etc.
+-> Centralized version control system - contains a single center repo where the commits and updates are done
+-> Distributed version control system - every developer maintains a local repository where the commit are done which are at last pushed to the remote repo.
+
+	* Continuous integration
+-> Whenever there is a commit in the repo, jenkins server pulls the code and prepare a build.
+
+	* Continuous delivery
+-> Jenkins will deploy the build code in test server of end user testing or user acceptance testing.
+
+	* Continuous deployment
+-> Deploying the build application onto the production servers
+-> It is not advised to automate this process as there are various security checks to take care of.
+
+	* Continuous configuration
+-> automating the configuration process with version management - puppet
+
+	* Containerization
+-> light weight alternate to virtual machines 
+-> it is box containing app and its dependencies which is infinitely replicable.
+
+	* Continuous monitoring
+-> Detect, report, respond to the attacks that occur.
+-> nagios - notifies the admin about the status of the application using plugins (compiled executable scripts) 
+
+
+
 								
 
