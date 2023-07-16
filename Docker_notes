@@ -1,0 +1,27 @@
+						DOCKER
+
+# Why Docker ?
+	:) Previously there used to be virtualisation concept where different OS can be run on a sigle machine.
+	:) Different OS running will take large resources.
+	:) Long time to boot up.
+	:) Code works at dev but not in production because dev will have its own kernel and dependencies.
+
+
+# Containerization :
+	:) It is a lightweight isolated virtual runtime environment that includes everything you need to run an application like code, libraries, tools and dependencies.
+	
+# Docker:
+	:) Tool designed to make it easier to create, deploy and run application y using containers.
+	:) Docker file contains all the dependencies which is used to make a docker image.
+	:) This docker image is stored in docker hub which is same as github and developers can pull docker image and make container in their own machine.
+	
+# Components:
+	:) Docker file -> text document which contains all the commands to assemble an image.
+	:) Docker image -> template to create containers.
+	:) Docker container -> isolated application platform to run an application.
+	:) Docker registry -> storage component for docker image.
+	:) Docker compose -> run mulitple containers as a single service.
+	:) Docker Swarm -> cluster of docker daemon
+	
+	
+

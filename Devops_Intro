@@ -1,6 +1,6 @@
 									       DevOps Tutorial
 
-DAY 1 : Introduction
+Introduction
 -> Previosly we used to have waterfall model for software development.
 
 	* Agile:
@@ -47,6 +47,7 @@ ___________________________________________
 -> Detect, report, respond to the attacks that occur.
 -> nagios - notifies the admin about the status of the application using plugins (compiled executable scripts) 
 
+______________________________________________________
 
 
 								

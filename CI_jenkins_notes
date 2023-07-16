@@ -1,0 +1,21 @@
+				Continuous Integration
+
+# Issues faced before CI :
+	-> Long waits to test code
+	-> Difficult to debug
+	-> Slow software delivery process
+	-> Infrequent feedback cycles
+	
+# In continuous integration developers pull the code from version control systems and automate the compiling, testing, reviewing and then finally deploy the code in the lower lifecyle environment.
+	
+-> Jenkins is a open source automation tool written in java than is built for continuous integration purpose.
+	:) PlugIns in Jenkins allow itegration of different devops stages.
+	:) Pipelines is a combination of plugins that support the integration and implementation of continuous delivery.
+	:) Pipelines is simply a combination of steps.
+	:) Pipelines -> Scripted and Declarative
+	:) A jenkins file is a text file that contains the definition of jenkins pipeline.
+
+
+-> Install jenkins for Debian and it will by default run on http://localhost:8080
+
+
