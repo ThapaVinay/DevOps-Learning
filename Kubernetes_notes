@@ -1,0 +1,27 @@
+				Kubernetes
+
+# What is kubernetes?
+	:) It is an open-source container management platform that automates the deployment, scaling and management of containerized applications.
+	
+# Features of Kubernetes:
+	:) Automatic binpacking
+	:) Load balancing
+	:) Self healing
+	:) Batch execution
+	:) Horizontal scaling
+	:) Automatic rollbacks and rollouts
+
+# Actually is:
+	:) Robust and reliable
+	:) Best solution for scaling up containers
+	:) Backed by huge community
+
+# How Kubernetes work?
+	:) Kubernetes consists of two nodes master and worker node.
+	:) Master node assign tasks and controls the workflow of the worker nodes.
+	:) Worker nodes run the pods and when workload increases then the number of worker nodes need to be increased.
+	:) One pod can contain one or more container.
+	:) A single application can run on multiple pods to stop from complete failure.
+	
+
+

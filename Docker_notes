@@ -22,6 +22,15 @@
 	:) Docker registry -> storage component for docker image.
 	:) Docker compose -> run mulitple containers as a single service.
 	:) Docker Swarm -> cluster of docker daemon
+
+# Steps to setup project using Docker:
+	:) Initialise new project on github
+	:) Navigate to the directory where you wish to store your api
+	:) Create you Dockerfile using any text editor
+	:) Create your requirements.txt file
+	:) Create docker-compose.yml file
+	:) On the terminal, run docker-compose run app
+	
 	
 	
 
